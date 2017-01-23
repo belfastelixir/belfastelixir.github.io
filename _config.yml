@@ -5,6 +5,7 @@ baseurl:
 
 highlighter: rouge
 markdown: kramdown
+future: true
 ### exclude the instructions / write-up in the README.md
 
 

@@ -7,6 +7,9 @@
 The home page of the Belfast Elixir Group. Yes, it is written in
 [jeykll](http://jekyll.rb). If you don't like it give us a Pull Request 😀
 
+## Links
+[belfastelixir.org](https://www.belfastelixir.org)
+
 ## Development Info
 
 ```

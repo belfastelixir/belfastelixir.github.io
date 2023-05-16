@@ -90,7 +90,7 @@ links:
 #extra_html:
 extra_html: >
   <p>Monthly meetup in Belfast for developers with an interest in the <strong>elixir</strong> programming lanaguage.</p>
-  <p>Recently we have move away from Meetup.com as our platform.</p>
+  <p>Recently we have moved away from Meetup.com as our platform.</p>
   <p>We run our Meetups and Events by directly communicating with our members via our <strong>Mailing List</strong>.</p>
   <div class="d-flex justify-content-center">
     <form action="https://tinyletter.com/belfastelixir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/belfastelixir', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
